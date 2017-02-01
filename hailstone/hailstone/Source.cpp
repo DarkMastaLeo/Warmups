@@ -26,5 +26,5 @@ string sequence(int n) {
 		}
 	}
 	cout << seq << endl;
-	return seq;
+	return seq;//hi
 }
